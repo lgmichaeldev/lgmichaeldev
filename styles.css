@@ -1,0 +1,32 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.title-color {
+    color: #333;
+}
+.title-font {
+    font-family: 'Lucida Sans';
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 3em;
+}
+h2 {
+    font-size: 1.3em;
+}
+p {
+    font-size: 1.5em;
+    font-family: Arial;
+    margin: 0;
+    font-weight: 700;
+}
+hr {
+    color: black;
+    width: 40%;
+}
